@@ -6,7 +6,8 @@
 这是为了快速使用代码构建界面的小方法,之后会有更新.
 
 ### 实例:
-#####UILabel:
+
+* UILabel:
 ```
 - (UILabel *)normal_label//普通方式
 {
@@ -36,7 +37,7 @@
     return _mhd_label;
 }
 ```
-#####UIButton:
+* UIButton:
 ```
 - (UIButton *)normal_button//普通方式
 {
@@ -67,7 +68,7 @@
     return _mhd_button;
 }
 ```
-#####UITextfield:
+* UITextfield:
 ```
 - (UITextField *)normal_textfield//普通方式
 {
@@ -98,5 +99,5 @@
     return _mhd_textfield;
 }
 ```
-######另外还有为UIview添加阴影等可根据demo添加.
-###最后希望也有人可以看到这个,有更好的第三方可以分享一下,谢谢.
+* 另外还有为UIview添加阴影等可根据demo添加.
+* 最后希望也有人可以看到这个,有更好的第三方可以分享一下,谢谢.

@@ -37,6 +37,7 @@
     return _mhd_label;
 }
 ```
+![UIlabel实例](https://raw.githubusercontent.com/obama901/MHD_Category/master/MHD_CategoryDemo/MHD_CategoryDemo/Screenshot/WX20180529-070738.png)
 * UIButton:
 ```
 - (UIButton *)normal_button//普通方式
@@ -68,6 +69,7 @@
     return _mhd_button;
 }
 ```
+![UIbutton实例](https://raw.githubusercontent.com/obama901/MHD_Category/master/MHD_CategoryDemo/MHD_CategoryDemo/Screenshot/WX20180529-070943.png)
 * UITextfield:
 ```
 - (UITextField *)normal_textfield//普通方式
@@ -99,5 +101,6 @@
     return _mhd_textfield;
 }
 ```
+![UItextfield实例](https://raw.githubusercontent.com/obama901/MHD_Category/master/MHD_CategoryDemo/MHD_CategoryDemo/Screenshot/WX20180529-070921.png)
 * 另外还有为UIview添加阴影等可根据demo添加.
 * 最后希望也有人可以看到这个,有更好的第三方可以分享一下,谢谢.
